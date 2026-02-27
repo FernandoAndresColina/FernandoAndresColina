@@ -1,2 +1,2 @@
 # ¡Hola! Perfil de Fernando Andrés 👋
-### 🚀 Desarrollador Web Full Stack, / Estudiante de Conquerblocks]
+### 🚀 Desarrollador Web Full Stack / Estudiante de Conquerblocks
