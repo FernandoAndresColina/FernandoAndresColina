@@ -1,4 +1,4 @@
-# ¡Hola! soy Fernando Andrés 👋
+# ¡Hola! soy Fernando Andrés 🧑🏻‍💻 🇵🇦
 ### 🚀 Desarrollador Web Full Stack
 
 Actualmente me estoy formando como Desarrollador Web Full Stack en ConquerBlocks, sumergido en un ecosistema de aprendizaje intensivo para construir soluciones digitales modernas y escalables.
