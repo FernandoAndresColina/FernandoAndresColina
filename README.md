@@ -12,6 +12,6 @@ Mi objetivo es transformar líneas de código en experiencias de usuario excepci
 
 Frontend: HTML5 🌐 | CSS3 🎨 | JavaScript ⚡ | React ⚛️
 
-Backend: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🐍 | Django 🚀
+Backend: Python 🐍 | Django 🚀
 
 Herramientas: Git 🌿 | GitHub 🐙
