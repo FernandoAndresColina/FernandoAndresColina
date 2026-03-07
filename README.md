@@ -6,9 +6,12 @@ Actualmente me estoy formando como Desarrollador Web Full Stack en ConquerBlocks
 
 Mi objetivo es transformar líneas de código en experiencias de usuario excepcionales. Aunque mi trayectoria profesional oficial está comenzando, mi repositorio refleja mi compromiso: código limpio, aprendizaje constante y proyectos construidos con las últimas tecnologías del sector.
 
-### ¿Buscas a alguien con hambre de aprender y listo para aportar desde el día uno? Hablemos. --> 
+## ¿Buscas a alguien con hambre de aprender y listo para aportar desde el día uno? Hablemos!
 
-🛠️ Mi Stack Tecnológico:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-andr%C3%A9s-luque-colina/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandoluquecolina@gmail.com)
+
+## 🛠️ Mi Stack Tecnológico:
 
 Frontend: HTML5 🌐 | CSS3 🎨 | JavaScript ⚡ | React ⚛️
 
