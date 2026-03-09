@@ -24,8 +24,8 @@ Mi objetivo es transformar líneas de código en experiencias de usuario excepci
 
 ### 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoAColina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAColina&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoAndresColina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAndresColina&layout=compact&theme=tokyonight" />
 </p>
 
 ---
