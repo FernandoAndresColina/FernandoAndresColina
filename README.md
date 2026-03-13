@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Fernando 👋 🇵🇦</h1>
+<h1 align="center">¡Hola, soy Fernando! 👋 🇵🇦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Entusiasta+del+Clean+Code;Aprendizaje+Continuo" alt="Typing SVG" />
