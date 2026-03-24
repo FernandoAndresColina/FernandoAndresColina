@@ -12,7 +12,7 @@ Mi objetivo es transformar líneas de código en experiencias de usuario excepci
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Mi Stack Tecnológicos
 
 | Área | Tecnologías |
 | :--- | :--- |
